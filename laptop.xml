@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:laptop="http://www.fake-laptop/laptop#">
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/HpVictus">
+        <laptop:nama>Hp Victus</laptop:nama>
+        <laptop:os>windows 11</laptop:os>
+        <laptop:processor>Intel Core i7 11800H</laptop:processor>
+        <laptop:display>16,1 inci FHD AG IPS 250 nits 144Hz</laptop:display>
+        <laptop:memory>16GB DDR4-3200MHz (2 x 8HB)</laptop:memory>
+        <laptop:storage>512GB SSD</laptop:storage>
+        <laptop:jenis>Gaming</laptop:jenis>
+        <laptop:merek>Hp</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/LenovoLegion5">
+        <laptop:nama>Lenovo Legion 5</laptop:nama>
+        <laptop:os>windows 11</laptop:os>
+        <laptop:processor>AMD Ryzen™ 7 5800H Mobile Processor</laptop:processor>
+        <laptop:display>15,6" FHD IPS (1020 x 1080) 165Hz 300 nits</laptop:display>
+        <laptop:memory>16GB</laptop:memory>
+        <laptop:storage>512GB M.2 NVMe PCIe SSD</laptop:storage>
+        <laptop:jenis>Gaming</laptop:jenis>
+        <laptop:merek>Lenovo</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/ASUSROGStrixScar17G733">
+        <laptop:nama>ASUS ROG Strix Scar 17 G733</laptop:nama>
+        <laptop:os>windows 10 Pro</laptop:os>
+        <laptop:processor>AMD Ryzen 9 5900HX (Cezanne)</laptop:processor>
+        <laptop:display>17.3 inch IPS Panel, resolusi 1920 x 1080, refresh rate 300 Hz, response time 3ms + Adaptive Sync</laptop:display>
+        <laptop:memory>32 GB DDR4-3200</laptop:memory>
+        <laptop:storage>1 TB x 2 SSD M.2 2230 NVMe PCIe</laptop:storage>
+        <laptop:jenis>Gaming</laptop:jenis>
+        <laptop:merek>Asus</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/ASUSROGZephyrusG14">
+        <laptop:nama>ASUS ROG Zephyrus G14</laptop:nama>
+        <laptop:os>windows 10</laptop:os>
+        <laptop:processor>AMD Ryzen 9 4900HS</laptop:processor>
+        <laptop:display>IPS-level panel 14 inci WQHD (2560 x 1440) 60 Hz</laptop:display>
+        <laptop:memory>DDR4 3200 MHz SDRAM, 16 GB</laptop:memory>
+        <laptop:storage>DDR4 3200 MHz SDRAM, 16 GB</laptop:storage>
+        <laptop:jenis>Gaming</laptop:jenis>
+        <laptop:merek>Asus</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/ASUSROGZephyrusDuo15">
+        <laptop:nama>ASUS ROG Zephyrus Duo 15</laptop:nama>
+        <laptop:os>windows 10</laptop:os>
+        <laptop:processor>Intel Core i9-10980HK (16M Cache, up to 5.3GHz)</laptop:processor>
+        <laptop:display>15.6-inch, Non-glare UHD (3840 x 2160), IPS panel 60Hz, 100% Adobe RGB, Pantone Validated, G-SYNC with 14.1-inch (3840 x 1100) touchscreen</laptop:display>
+        <laptop:memory>32GB DDR4 3200MHz RAM up to 48GB</laptop:memory>
+        <laptop:storage>M.2 NVMe PCIe 3.0 x4 1TB + 1TB SSD with RAID 0 support</laptop:storage>
+        <laptop:jenis>Gaming</laptop:jenis>
+        <laptop:merek>Asus</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/ASUSBR1100CKA-GJ0410T">
+        <laptop:nama>ASUS BR1100CKA-GJ0410T</laptop:nama>
+        <laptop:os>windows 10</laptop:os>
+        <laptop:processor>Intel Celeron N4500</laptop:processor>
+        <laptop:display>11.6 inci, resolusi 1366 x 768 piksel</laptop:display>
+        <laptop:memory>4GB DDR4</laptop:memory>
+        <laptop:storage>128GB eMMC</laptop:storage>
+        <laptop:jenis>Notebook</laptop:jenis>
+        <laptop:merek>Asus</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/LenovoIdeapad111IGL05">
+        <laptop:nama>Lenovo Ideapad 1 11IGL05</laptop:nama>
+        <laptop:os>windows 10</laptop:os>
+        <laptop:processor>Intel Celeron N4020</laptop:processor>
+        <laptop:display>11.6 inci, resolusi 1366 x 768 piksel</laptop:display>
+        <laptop:memory>4GB DDR4</laptop:memory>
+        <laptop:storage>SSD 256GB 128GB eMMC</laptop:storage>
+        <laptop:jenis>Notebook</laptop:jenis>
+        <laptop:merek>Lenovo</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/LenovoSlim3ChromeBook11">
+        <laptop:nama>Lenovo Slim 3 ChromeBook 11</laptop:nama>
+        <laptop:os>windows 10</laptop:os>
+        <laptop:processor>Intel Celeron N4020</laptop:processor>
+        <laptop:display>IPS 11.6 inci, resolusi 1366 x 768 piksel</laptop:display>
+        <laptop:memory>4GB DDR4</laptop:memory>
+        <laptop:storage>160GB eMMC</laptop:storage>
+        <laptop:jenis>Notebook</laptop:jenis>
+        <laptop:merek>Lenovo</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/HPStream11-ak0012dx">
+        <laptop:nama>HP Stream 11-ak0012dx</laptop:nama>
+        <laptop:os>windows 10</laptop:os>
+        <laptop:processor>Intel® Celeron® N4000</laptop:processor>
+        <laptop:display>11.6" diagonal HD SVA anti-glare WLED-backlit (1366 x 768)</laptop:display>
+        <laptop:memory>4GB DDR4</laptop:memory>
+        <laptop:storage>64 GB eMMC</laptop:storage>
+        <laptop:jenis>Notebook</laptop:jenis>
+        <laptop:merek>HP</laptop:merek>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.fake-laptop/laptop/ASUSE203MAHN4000">
+        <laptop:nama>ASUS E203MAH N4000</laptop:nama>
+        <laptop:os>windows 10</laptop:os>
+        <laptop:processor>Intel Celeron Dual Core 7th Gen N4000</laptop:processor>
+        <laptop:display>11.60-inch 1366x768 pixels</laptop:display>
+        <laptop:memory>2 GB</laptop:memory>
+        <laptop:storage>HDD 500 GB</laptop:storage>
+        <laptop:jenis>Notebook</laptop:jenis>
+        <laptop:merek>Asus</laptop:merek>
+    </rdf:Description>
+</rdf:RDF>
